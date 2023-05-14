@@ -7,5 +7,6 @@ public class main2 {
         System.out.println(n/100);
         System.out.println(n/10%10);
         System.out.println(n%10);
+
     }
 }
