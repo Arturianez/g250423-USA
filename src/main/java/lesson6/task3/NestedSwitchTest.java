@@ -1,4 +1,4 @@
-package Lesson6.task3;
+package lesson6.task3;
 
 public class NestedSwitchTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lesson6.task2;
+package lesson6.task2;
 
 public class SwitchTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lesson6.task4;
+package lesson6.task4;
 
 public class TernaryTest {
     public static void main(String[] args) {
