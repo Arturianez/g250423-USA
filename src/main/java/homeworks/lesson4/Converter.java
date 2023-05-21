@@ -6,6 +6,7 @@ public class Converter {
         int eu = 1000;
         double usaResult = usa(eu);
         System.out.println("Евро в долларах на 05.17.23 составляет: " + usaResult);
+
     }
 
     public static double usa(double eu) {
