@@ -1,0 +1,19 @@
+   0 cd /home
+   1 mkdir user
+   2 cd user
+   3 mkdir start
+   4 cd start
+   5 touch 1.txt
+   6 ls
+   7 echo Start >> 1.txt
+   8 date >> 1.txt
+   9 cat 1.txt
+  10 cd /opt
+  11 mkdir task
+  12 cp /home/user/start/1.txt /opt/task/start.txt
+  13 cd task
+  14 ls
+  15 sudo tail -n 4 /* 2>/dev/null >> start.txt
+  16 cat start.txt
+  17 history 
+  18 history > /tmp/history2.txt
